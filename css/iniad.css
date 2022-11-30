@@ -3,6 +3,10 @@ body {
   color: #FE4261;
 }
 
+div {
+  background-color:navy
+}
+
 h1 {
   font-size: 24px;
   text-align: center;
