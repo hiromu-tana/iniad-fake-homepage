@@ -38,3 +38,8 @@ h3 {
   color:#000000;
   font-size: 20px;
 }
+
+img.imagesize{
+  width: 30%;
+  height: 30%;
+}
